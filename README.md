@@ -43,7 +43,7 @@ Feel free to use these profiles and tasks as inspiration for your own Tasker con
 
 ## License
 
-[Choose an appropriate license for your repository]
+MIT License
 
 ## Disclaimer
 
